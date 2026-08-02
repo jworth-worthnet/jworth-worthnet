@@ -14,8 +14,17 @@ I am a seasoned **Enterprise Systems Administrator** working with Windows and Li
 ### 🛠️ Tech Stack & Core Competencies
 
 * 💻 **Operating Systems & Enterprise Windows:** Windows Server & Desktop | Active Directory | DNS/DHCP | Group Policy (GPO) | IIS 
-* ☁️ **Cloud & Virtualisation:** Microsoft Azure | VMware vSphere | VMware NSX | VMware VCF 5.x and 9.0/9.1 | Microsoft Hyper-V
+* ☁️ **Cloud & Virtualisation:** Microsoft 365 | Intune | Microsoft Azure | VMware vSphere | VMware NSX | VMware VCF 5.x and 9.0/9.1 | Microsoft Hyper-V
 * 🔌 **Networking:** Juniper Networks (Routing, Switching, Introductory Automation) | Cisco (Routing, Switching) | HPE/Aruba (Switching)
+
+---
+
+### 🔬 Home Lab Architecture & Sandbox
+
+* 🖥️ **Compute & Hypervisor:** Dell Precision T7910 (2x 44 Core Xeon, 256GB RAM) running **VMware ESXi** - used to host nested VCF and supporting VMs
+* 🛡️ **Software-Defined Networking:** **VMware NSX** deployment (as part of VCF) for micro-segmentation and logical routing isolated sandboxes
+* 🕸️ **Physical Network:** Physical Juniper EX-series switch and SRX300 firewall alongside EVE-NG Pro lab
+* 🎛️ **Network Emulation:** Bare-metal **EVE-NG Pro** server hosting multi-vendor topologies
 
 ---
 
