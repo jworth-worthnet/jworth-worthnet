@@ -15,7 +15,7 @@ I am a seasoned **Enterprise Systems Administrator** working with Windows and Li
 
 * 💻 **Operating Systems & Enterprise Windows:** Windows Server & Desktop | Active Directory | DNS/DHCP | Group Policy (GPO) | IIS 
 * ☁️ **Cloud & Virtualisation:** Microsoft Azure | VMware vSphere | VMware NSX | VMware VCF 5.x and 9.0/9.1 | Microsoft Hyper-V
-* 🔌 **Networking:** Juniper Networks (Routing, Switching, Introductory Automation)
+* 🔌 **Networking:** Juniper Networks (Routing, Switching, Introductory Automation) | Cisco (Routing, Switching) | HPE/Aruba (Switching)
 
 ---
 
