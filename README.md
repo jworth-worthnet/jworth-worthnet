@@ -32,7 +32,7 @@ I am a seasoned **Enterprise Systems Administrator** working with Windows and Li
 
 * ⚙️ **Infrastructure as Code & Automation:** Terraform | Ansible | PowerShell
 * 🐧 **Linux Ecosystem:** Advanced Linux Upskilling | Bash Scripting | System Administration | System internals
-* ⚡ **PowerShell to Ansible:** Migrating traditional Windows administration tasks (AD/GPO management) into scalable Ansible playbooks.
+* ⚡ **PowerShell to Ansible:** Migrating traditional Windows administration tasks into scalable Ansible playbooks.
 * ☁️ **Hybrid Cloud Automation:** Building reusable Terraform modules to orchestrate infrastructure and compute across Azure and VMware vSphere.
 * 🛡️ **Software-Defined Networking:** Automating **VMware NSX** micro-segmentation and logical routing rules using Terraform providers and Ansible.
 * 🔌 **Network-as-Code:** Automating physical Juniper switch configurations and validating telemetry via automation pipelines.
