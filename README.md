@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a seasoned **Enterprise Systems Administrator** working with Windows and Linux both in Physical and Virtual Environments actively transitioning into the **DevOps** ecosystem. I leverage my deep enterprise OS foundation to build modern, automated systems—bridging the gap between legacy enterprise infrastructure, core networking, and modern Infrastructure as Code (IaC).
+I am a seasoned **Enterprise Systems Administrator** working with Windows and Linux both in Physical and Virtual Environments actively transitioning into the **DevOps** ecosystem. I am learning to leverage my deep enterprise OS foundation to build modern, automated systems—bridging the gap between legacy enterprise infrastructure, core networking, and modern Infrastructure as Code (IaC).
 
 ---
 
@@ -13,7 +13,7 @@ I am a seasoned **Enterprise Systems Administrator** working with Windows and Li
 
 ### 🛠️ Tech Stack & Core Competencies
 
-* 💻 **Operating Systems & Enterprise Windows:** Windows Server & Desktop (Seasoned) | Active Directory | DNS/DHCP | Group Policy (GPO) | Hyper-V | IIS 
+* 💻 **Operating Systems & Enterprise Windows:** Windows Server & Desktop | Active Directory | DNS/DHCP | Group Policy (GPO) | Hyper-V | IIS 
 * ☁️ **Cloud & Virtualisation:** Microsoft Azure | VMware vSphere | VMware NSX | VMware VCF 5.x and 9.0/9.1
 * 🔌 **Networking:** Juniper Networks (Routing, Switching, Introductory Automation)
 
