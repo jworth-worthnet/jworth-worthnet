@@ -33,7 +33,7 @@ I am a seasoned **Enterprise Systems Administrator** working with Windows and Li
 ### 📬 Connect with me
 
 * [**LinkedIn**](https://://linkedin.com/in/worthj)
-* **Portfolio:** [Github](https://github.com/jworth-worthnet)
+* **Portfolio:** [Github](https://github.com/jworth-worthnet) / [Github.io Page](https://jworth-worthnet.github.io)
 
 
 <!--
