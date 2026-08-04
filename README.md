@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan! 👋
 
-I am a seasoned **Enterprise Systems Administrator** working with Windows and Linux both in Physical and Virtual Environments actively transitioning into the **DevOps** ecosystem. I am learning to leverage my deep enterprise OS foundation to build modern, automated systems—bridging the gap between legacy enterprise infrastructure, core networking, and modern Infrastructure as Code (IaC).
+I am a seasoned **Enterprise Systems Administrator** working with Windows and Linux both in Physical and Virtual Environments actively getting up to speed with the **DevOps** ecosystem. I am learning to leverage my deep enterprise OS foundation to build modern, automated systems—bridging the gap between legacy enterprise infrastructure, core networking, and modern Infrastructure as Code (IaC).
 
 ---
 
